@@ -1,0 +1,20 @@
+.app__header{
+    background-color:rgb(35, 19, 6);
+}
+
+.app__header-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04rem;
+    font-size: 80px;
+    text-transform: uppercase;
+}
+.app__header-img img{
+    width: 80%;
+}
+
+
+.custom__button:hover{
+color: var(--color-golden);
+transition: 0.3s ease;
+}

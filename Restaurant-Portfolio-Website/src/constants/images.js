@@ -13,14 +13,24 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import cwelcome from '../assets/Coffeewelcome.png';
+import A from '../assets/A.png';
+import cup from '../assets/cup.png'
+import frappe from '../assets/Frappe.png'
+import coffee from '../assets/chcoffee.png';
 
 export default {
   G,
+  A,
   knife,
+  coffee,
+  frappe,
+  cup,
   logo,
   overlaybg,
   spoon,
   welcome,
+  cwelcome,
   laurels,
   award01,
   award02,

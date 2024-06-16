@@ -1,15 +1,15 @@
 import images from './images';
 
-const wines = [
+const hots = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Hot Chocolate',
+    price: '$24',
+    tags: 'US | Cup',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Americano',
+    price: '$14',
+    tags: 'US | Cup',
   },
   {
     title: 'La Vieillw Rose',
@@ -28,7 +28,7 @@ const wines = [
   },
 ];
 
-const cocktails = [
+const colds = [
   {
     title: 'Aperol Sprtiz',
     price: '$20',
@@ -79,4 +79,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { hots, colds, awards };
