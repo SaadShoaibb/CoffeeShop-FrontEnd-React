@@ -4,62 +4,62 @@ const hots = [
   {
     title: 'Hot Chocolate',
     price: '$24',
-    tags: 'US | Cup',
+    tags: 'US | 300 ml',
   },
   {
     title: 'Americano',
     price: '$14',
-    tags: 'US | Cup',
+    tags: 'US | 300 ml',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Cappuccino',
+    price: '$16',
+    tags: 'US | 300 ml',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Espresso',
+    price: '$12',
+    tags: 'ITA | 300 ml',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Latte',
+    price: '$15',
+    tags: 'US | 300 ml',
   },
 ];
 
 const colds = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Frappe',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Chocolate | Caramel | Vanilla | 350 ml',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Ice Tea",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Lemon | Apple | Pineapple | 350 ml',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Iced Mocha',
+    price: '$23',
+    tags: 'Caramel | Chocolate | 350 ml',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Iced Latte',
+    price: '$22',
+    tags: 'Chocolate | Caramel | 350 ml',
   },
   {
-    title: 'Negroni',
+    title: 'Frappucino',
     price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    tags: 'Chocolate | Vanilla | Caramel | 350 ml',
   },
 ];
 
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
+    title: 'Top-Notch Hygiene',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
@@ -69,12 +69,12 @@ const awards = [
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
+    title: '5 Star Hospitality',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
+    title: 'Outstanding Brewery',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
